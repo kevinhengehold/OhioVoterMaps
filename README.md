@@ -7,5 +7,5 @@ The shapefiles of the counties are on the Census's website: https://www.census.g
 
 To view the Paarty score map, use this url: https://kevinhengehold.github.io/Party%20Score%2025k%20voters.html
 
-To view the voter registration total map, use this url: [go](https://kevinhengehold.github.io/census_tracts_registered_voters_25k.html){:target="_blank"}
+To view the voter registration total map, use this url: https://kevinhengehold.github.io/census_tracts_registered_voters_25k.html)
 
